@@ -87,7 +87,7 @@ The User Management Screen allows administrators to manage users within the syst
 ---
 
 ## Example Screenshot Reference
-(![User Management Screen](https://github.com/user-attachments/assets/7265fddb-a3a4-4adb-8871-5aa2462f494a))
+![User Management Screen](https://github.com/user-attachments/assets/7265fddb-a3a4-4adb-8871-5aa2462f494a)
 
 ---
 
